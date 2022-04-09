@@ -1,0 +1,243 @@
+﻿<Project name="Name">
+<Package name="Second name">
+
+<Key ID="STR_A3_Smersh_AK">
+<Original>Smersh (АК)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_AK_GP">
+<Original>Smersh (АК/GP)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_PK">
+<Original>Smersh (PK)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_SVD">
+<Original>Smersh (SVD)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_kora_AK">
+<Original>Smersh (АК)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_kora_AK_GP">
+<Original>Smersh (АК/GP)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_kora_PK">
+<Original>Smersh (PK)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_kora_SVD">
+<Original>Smersh (SVD)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_def_AK">
+<Original>Smersh (АК)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh2_def_AK">
+<Original>Smersh 2 (АК)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_def_AK_gp">
+<Original>Smersh (АК/GP)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh2_def_AK_gp">
+<Original>Smersh 2 (АК/GP)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_def_PK">
+<Original>Smersh (PK)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh2_def_PK">
+<Original>Smersh 2 (PK)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Smersh_def_SVD">
+<Original>Smersh (SVD)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_ch">
+<Original>В94 (Black)</Original>
+</Key>
+</Container>
+
+
+<Key ID="STR_A3_V94_ch2">
+<Original>В94 with pockets (Black)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_OM_ch">
+<Original>В94 ОМОН (Black)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_sin">
+<Original>В94 (город)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_OM_sin">
+<Original>В94 ОМОН (город)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_zel">
+<Original>В94 (Reeds)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_zel2">
+<Original>В94 with pockets (Reeds)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_V94_OM_zel">
+<Original>В94 ОМОН (Reeds)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Tarzan_ch">
+<Original>Tarzan (Black)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Tarzan_ch_bron">
+<Original>Tarzan (Black)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Tarzan_w_bron">
+<Original>Tarzan (Woodland)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Tarzan_w">
+<Original>Tarzan (Woodland)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m">
+<Original>Lynx-М</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_GP">
+<Original>Lynx-М (GP)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_kora">
+<Original>Lynx-М/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_kora_GP">
+<Original>Lynx-М (GP)/Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_def">
+<Original>Lynx-М/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_def_GP">
+<Original>Lynx-М (GP)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m_def_mag">
+<Original>Lynx-М (Pouches)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m2_def_GP">
+<Original>Lynx-М2 (GP)/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Rys_m2_def_mag">
+<Original>Lynx-М2/Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_def_molle_easy">
+<Original>Defender (light)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_def_molle_norm">
+<Original>Defender</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_def_molle_hard">
+<Original>Defender (GP)</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Kora">
+<Original>Kora</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Kora_p_ak">
+<Original>Kora/pouch АК</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Kora_p2_ak">
+<Original>Kora/Pouches АК</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_p_ak">
+<Original>pouch АК</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_p2_ak">
+<Original>Pouches АК</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_6B3">
+<Original>6Б3</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_6B5">
+<Original>6Б5</Original>
+</Key>
+</Container>
+
+<Key ID="STR_A3_Box_RPS">
+<Original>Crate with russian equipment</Original>
+</Key>
+</Container>
+
+
+
+</Package>
+</Project>

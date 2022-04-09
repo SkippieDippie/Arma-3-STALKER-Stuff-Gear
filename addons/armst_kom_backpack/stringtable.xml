@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst1">
+  <Package name="armst1">
+	<Key ID="STR_ARMST_RUKZAK">
+		<Original>Knapsack</Original>
+		<English>Knapsack</English>
+		<Russian>Рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA">
+		<Original>Soviet clothes bag</Original>
+		<English>Soviet clothes bag</English>
+		<Russian>Советский вещмешок</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA1">
+		<Original>Haversack</Original>
+		<English>Haversack</English>
+		<Russian>Сумка для противогаза</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA3">
+		<Original>Camping backpack</Original>
+		<English>Camping backpack</English>
+		<Russian>Походный рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA4">
+		<Original>Old Military Backpack</Original>
+		<English>Old Military Backpack</English>
+		<Russian>Старый военный рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA5">
+		<Original>Spacious backpack</Original>
+		<English>Spacious backpack</English>
+		<Russian>Вместительный походный рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA6">
+		<Original>Unknown backpack</Original>
+		<English>Unknown backpack</English>
+		<Russian>Экспедиционный рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA7">
+		<Original>Old unknown backpack</Original>
+		<English>Old unknown backpack</English>
+		<Russian>Старый неизвестный рюкзак</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA8">
+		<Original>School backpack</Original>
+		<English>School backpack</English>
+		<Russian>Школьный рюкзак</Russian>
+	</Key>
+	
+	<Key ID="STR_ARMST_SUMKA9">
+		<Original>Hiking Bag</Original>
+		<English>Hiking Bag</English>
+		<Russian>Походная сумка</Russian>
+	</Key>
+	
+	<Key ID="STR_ARMST_SUMKA10">
+		<Original>Camping backpack</Original>
+		<English>Camping backpack</English>
+		<Russian>Походный рюкзак</Russian>
+	</Key>
+	
+	<Key ID="STR_ARMST_SUMKA11">
+		<Original>Tourist bag</Original>
+		<English>Tourist bag</English>
+		<Russian>Туристическая сумка</Russian>
+	</Key>
+	
+	<Key ID="STR_ARMST_SUMKA12">
+		<Original>Large traveling bag</Original>
+		<English>Large traveling bag</English>
+		<Russian>Большая походная сумка</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA13">
+		<Original>Expedition bag</Original>
+		<English>Expedition bag</English>
+		<Russian>Экспедиционная сумка</Russian>
+	</Key>
+	<Key ID="STR_ARMST_SUMKA14">
+		<Original>Traveler's Backpack</Original>
+		<English>Traveler's Backpack</English>
+		<Russian>Рюкзак путешественника</Russian>
+	</Key>
+	<Key ID="STR_armst_seva_backpack">
+		<Original>Filtration Backpack(SEVA)</Original>
+		<English>Filtration Backpack(SEVA)</English>
+		<Russian>Фильтрационный рюкзак (СЕВА)</Russian>
+	</Key>
+	<Key ID="STR_armst_seva_backpack_champion">
+		<Original>Filtration Backpack(SEVA)</Original>
+		<English>Filtration Backpack(SEVA)</English>
+		<Russian>Фильтрационный рюкзак (СЕВА) (Чемпион)</Russian>
+	</Key>
+	<Key ID="STR_armst_band_sumka">
+		<Original>Sport backpack</Original>
+		<English>Sport backpack</English>
+		<Russian>Спортивная сумка</Russian>
+	</Key>
+	
+</Package>
+</Project>

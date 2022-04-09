@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst1">
+  <Package name="armst1">
+	
+	<Key ID="STR_ushanka">
+		<Original>Ushanka</Original>
+		<English>Ushanka</English>
+		<Russian>Ушанка</Russian>
+	</Key>
+	<Key ID="STR_bulat_d">
+		<Original>Helmet 'Bulat-2B'(Duty)</Original>
+		<English>Helmet 'Bulat-2B'(Duty)</English>
+		<Russian>Шлем Булат-2Б (Долг)</Russian>
+	</Key>
+	<Key ID="STR_bulat">
+		<Original>Helmet 'Bulat-2B'</Original>
+		<English>Helmet 'Bulat-2B'</English>
+		<Russian>Шлем Булат-2Б</Russian>
+	</Key>
+	<Key ID="STR_steel_helmet_glass">
+		<Original>Steel Helmet (glasses)</Original>
+		<English>Steel Helmet (glasses)</English>
+		<Russian>Стальной шлем (с очками)</Russian>
+	</Key>
+	<Key ID="STR_armst_steel_helmet">
+		<Original>Steel Helmet</Original>
+		<English>Steel Helmet</English>
+		<Russian>Стальной шлем</Russian>
+	</Key>
+	<Key ID="STR_kepka_gop">
+		<Original>Cap</Original>
+		<English>Cap</English>
+		<Russian>Кепка</Russian>
+	</Key>
+	<Key ID="STR_Headset">
+		<Original>Headset</Original>
+		<English>Headset</English>
+		<Russian>Шлемофон</Russian>
+	</Key>
+	<Key ID="STR_Shemagh">
+		<Original>Shemagh</Original>
+		<English>Shemagh</English>
+		<Russian>Шемаг</Russian>
+	</Key>
+	<Key ID="STR_CVCHelmet">
+		<Original>CVC Helmet</Original>
+		<English>CVC Helmet</English>
+		<Russian>CVC Шлем</Russian>
+	</Key>
+	<Key ID="STR_psy_helmet">
+		<Original>PSY-Helmet</Original>
+		<English>PSY-Helmet</English>
+		<Russian>ПСИ-шлем</Russian>
+	</Key>
+	<Key ID="STR_psy_helmet_exp">
+		<Original>PSY-Helmet experimental</Original>
+		<English>PSY-Helmet experimental</English>
+		<Russian>ПСИ-шлем экспериментальный</Russian>
+	</Key>
+	<Key ID="STR_seva_helmet">
+		<Original>Helmet (SEVA)</Original>
+		<English>Helmet (SEVA)</English>
+		<Russian>Шлем СЕВА</Russian>
+	</Key>
+	<Key ID="STR_Exohelmet">
+		<Original>Exohelmet</Original>
+		<English>Exohelmet</English>
+		<Russian>Экзошлем</Russian>
+	</Key>
+	<Key ID="STR_Exohelmetchampion">
+		<Original>Exohelmet</Original>
+		<English>Exohelmet</English>
+		<Russian>Экзошлем</Russian>
+	</Key>
+	
+</Package>
+</Project>
