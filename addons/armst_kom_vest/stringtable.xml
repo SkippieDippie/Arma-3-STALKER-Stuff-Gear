@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst1">
+  <Package name="armst1">
+	<Key ID="STR_armst_b_nbc_vest">
+		<Original>Plate Carrier</Original>
+		<English>Plate Carrier</English>
+		<Russian>Plate Carrier</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_monolith">
+		<Original>Plate Carrier (Monolith)</Original>
+		<English>Plate Carrier (Monolith)</English>
+		<Russian>Модифицированный бронежилет (Монолит)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest">
+		<Original>Plate Carrier</Original>
+		<English>Plate Carrier</English>
+		<Russian>Модифицированный бронежилет</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_duty">
+		<Original>Plate Carrier (Duty)</Original>
+		<English>Plate Carrier (Duty)</English>
+		<Russian>Модифицированный бронежилет (Долг)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_Freedom">
+		<Original>Plate Carrier (Freedom)</Original>
+		<English>Plate Carrier(Freedom)</English>
+		<Russian>Модифицированный бронежилет (Свобода)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_band">
+		<Original>Plate Carrier (Bandits)</Original>
+		<English>Plate Carrier (Bandits)</English>
+		<Russian>Модифицированный бронежилет (Бандит)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_merc">
+		<Original>Plate Carrier (Mercenaries)</Original>
+		<English>Plate Carrier (Mercenaries)</English>
+		<Russian>Модифицированный бронежилет (Наемник)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_army">
+		<Original>Plate Carrier (Military)</Original>
+		<English>Plate Carrier (Military)</English>
+		<Russian>Модифицированный бронежилет (Военный)</Russian>
+	</Key>
+	<Key ID="STR_Armst_modvest_minotaur">
+		<Original>Plate Carrier</Original>
+		<English>Plate Carrier</English>
+		<Russian>Модифицированный бронежилет (Ганза)</Russian>
+	</Key>
+	<Key ID="STR_armst_b_nbc_vest_Extra">
+		<Original>Plate Carrier (Improved)</Original>
+		<English>Plate Carrier (Improved)</English>
+		<Russian>Plate Carrier (улучшенный)</Russian>
+	</Key>
+	
+	<Key ID="STR_Armst_Lightarmor_CN">
+		<Original>Light armor Clear Sky</Original>
+		<English>Light armor Clear Sky</English>
+		<Russian>Разгрузочный жилет ЧН</Russian>
+	</Key>
+	<Key ID="STR_Armst_HardArmor_CN">
+		<Original>Hard armor Clear Sky</Original>
+		<English>Hard armor Clear Sky</English>
+		<Russian>Тяжелый Бронежилет ЧН</Russian>
+	</Key>
+	<Key ID="STR_armst_o_nbc_elbv">
+		<Original>Kevlar Vest</Original>
+		<English>Kevlar Vest</English>
+		<Russian>Кевларовый бронежилет</Russian>
+	</Key>
+	<Key ID="STR_ekzo2g">
+		<Original>Exoskeleton 2G</Original>
+		<English>Exoskeleton 2G</English>
+		<Russian>Экзоскелет 2П</Russian>
+	</Key>
+	<Key ID="STR_ekzo2gchampion">
+		<Original>Exoskeleton 2G</Original>
+		<English>Exoskeleton 2G</English>
+		<Russian>Экзоскелет 2П (Чемпион)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_modded">
+		<Original>Sunrise Vest (Improved)</Original>
+		<English>Sunrise Vest</English>
+		<Russian>Бронежилет Заря (улучшенный)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_stalker">
+		<Original>Sunrise Vest</Original>
+		<English>Sunrise Vest</English>
+		<Russian>Бронежилет Заря</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_champion">
+		<Original>Sunrise Vest</Original>
+		<English>Sunrise Vest</English>
+		<Russian>Бронежилет Заря (Чемпион)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_duty">
+		<Original>Sunrise Vest (Duty)</Original>
+		<English>Sunrise Vest (Duty)</English>
+		<Russian>Бронежилет Заря (Долг)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_freedom">
+		<Original>Sunrise Vest (Freedom)</Original>
+		<English>Sunrise Vest (Freedom)</English>
+		<Russian>Бронежилет Заря (Свобода)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_Bandit">
+		<Original>Sunrise Vest (Bandit)</Original>
+		<English>Sunrise Vest (Bandit)</English>
+		<Russian>Бронежилет Заря (Бандит)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_army">
+		<Original>Sunrise Vest (Military)</Original>
+		<English>Sunrise Vest (Military)</English>
+		<Russian>Бронежилет Заря (Военный)</Russian>
+	</Key>
+	<Key ID="STR_Armst_sunrise_merc">
+		<Original>Sunrise Vest (Mercenary)</Original>
+		<English>Sunrise Vest (Mercenary)</English>
+		<Russian>Бронежилет Заря (Наемник)</Russian>
+	</Key>
+	
+	<Key ID="STR_ekzo2gd">
+		<Original>Exoskeleton 2G(Duty)</Original>
+		<English>Exoskeleton 2G(Duty)</English>
+		<Russian>Экзоскелет 2П(Долг)</Russian>
+	</Key>
+	<Key ID="STR_ekzo2gf">
+		<Original>Exoskeleton 2G(Freedom)</Original>
+		<English>Exoskeleton 2G(Freedom)</English>
+		<Russian>Экзоскелет 2П(Свобода)</Russian>
+	</Key>
+	<Key ID="STR_ekzo2gm">
+		<Original>Exoskeleton 2G(Military)</Original>
+		<English>Exoskeleton 2G(Military)</English>
+		<Russian>Экзоскелет 2П(Военные)</Russian>
+	</Key>
+	<Key ID="STR_ekzo2gmerc">
+		<Original>Exoskeleton 2G(Mercenary)</Original>
+		<English>Exoskeleton 2G(Mercenary)</English>
+		<Russian>Экзоскелет 2П(Наемники)</Russian>
+	</Key>
+	<Key ID="STR_ekzo2gmonolith">
+		<Original>Exoskeleton 2G(Monolith)</Original>
+		<English>Exoskeleton 2G(Monolith)</English>
+		<Russian>Экзоскелет 2П(Монолит)</Russian>
+	</Key>
+	
+	<Key ID="STR_seva_science">
+		<Original>SEVA(Scientists)</Original>
+		<English>SEVA(Scientists)</English>
+		<Russian>СЕВА(Ученые)</Russian>
+	</Key>
+	<Key ID="STR_sevaclearsky">
+		<Original>SEVA(Clear Sky)</Original>
+		<English>SEVA(Clear Sky)</English>
+		<Russian>СЕВА(ЧН)</Russian>
+	</Key>
+	
+	<Key ID="STR_rigs_duty">
+		<Original>Tactical vest Duty</Original>
+		<English>Tactical vest Duty</English>
+		<Russian>Разгрузка Долга</Russian>
+	</Key>
+	
+	<Key ID="STR_band_kurt">
+		<Original>Leather sleeveless jacket</Original>
+		<English>Leather sleeveless jacket</English>
+		<Russian>Кожанная куртка без рукавов</Russian>
+	</Key>
+	<Key ID="STR_band_kurt2">
+		<Original>Leather Jacket</Original>
+		<English>Leather Jacket</English>
+		<Russian>Кожанная куртка</Russian>
+	</Key>
+	<Key ID="STR_Coat">
+		<Original>Coat</Original>
+		<English>Coat</English>
+		<Russian>Пальто</Russian>
+	</Key>
+	<Key ID="STR_Coat2">
+		<Original>Short sleeveless coat</Original>
+		<English>Short sleeveless coat</English>
+		<Russian>Пальто без рукавов</Russian>
+	</Key>
+	<Key ID="STR_coat3">
+		<Original>Short coat</Original>
+		<English>Short coat</English>
+		<Russian>Пальто (короткое)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_d">
+		<Original>Armored Suit Bulat-2B(Duty)</Original>
+		<English>Armored Suit Bulat-2B(Duty)</English>
+		<Russian>Бронежилет Булат-2Б(Долг)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B">
+		<Original>Armored Suit Bulat-2B</Original>
+		<English>Armored Suit Bulat-2B</English>
+		<Russian>Бронежилет Булат-2Б</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_m">
+		<Original>Armored Suit Bulat-2B(Military)</Original>
+		<English>Armored Suit Bulat-2B(Military)</English>
+		<Russian>Бронежилет Булат-2Б(Военные)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_Militarystalker">
+		<Original>Armored Suit Bulat-2B(Milstal)</Original>
+		<English>Armored Suit Bulat-2B(Milstal)</English>
+		<Russian>Бронежилет Булат-2Б(Военстал)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_minotaur">
+		<Original>Armored Suit Bulat-2B</Original>
+		<English>Armored Suit Bulat-2B</English>
+		<Russian>Бронежилет Булат-2Б(Ганза)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_merc">
+		<Original>Armored Suit Bulat-2B(Mercenary)</Original>
+		<English>Armored Suit Bulat-2B(Mercenary)</English>
+		<Russian>Бронежилет Булат-2Б(Наемники)</Russian>
+	</Key>
+	<Key ID="STR_Bulat_2B_f">
+		<Original>Armored Suit Bulat-2B(Freedom)</Original>
+		<English>Armored Suit Bulat-2B(Freedom)</English>
+		<Russian>Бронежилет Булат-2Б(Свобода)</Russian>
+	</Key>
+	<Key ID="STR_seva">
+		<Original>SEVA</Original>
+		<English>SEVA</English>
+		<Russian>СЕВА</Russian>
+	</Key>
+	<Key ID="STR_seva_monoluth">
+		<Original>SEVA(Monolith)</Original>
+		<English>SEVA(Monolith)</English>
+		<Russian>СЕВА(Монолит)</Russian>
+	</Key>
+	<Key ID="STR_seva_d">
+		<Original>SEVA(Duty)</Original>
+		<English>SEVA(Duty)</English>
+		<Russian>СЕВА(Долг)</Russian>
+	</Key>
+	<Key ID="STR_seva_f">
+		<Original>SEVA(Freedom)</Original>
+		<English>SEVA(Freedom)</English>
+		<Russian>СЕВА(Свобода)</Russian>
+	</Key>
+	<Key ID="STR_seva_merc">
+		<Original>SEVA(Mercenary)</Original>
+		<English>SEVA(Mercenary)</English>
+		<Russian>СЕВА(Наемники)</Russian>
+	</Key>
+	<Key ID="STR_seva_military">
+		<Original>SEVA(Military)</Original>
+		<English>SEVA(Military)</English>
+		<Russian>СЕВА(Военные)</Russian>
+	</Key>
+	<Key ID="STR_sevascience">
+		<Original>SEVA(Scientists)</Original>
+		<English>SEVA(Scientists)</English>
+		<Russian>СЕВА(Scientists)</Russian>
+	</Key>
+	<Key ID="STR_cn_easy_vest_clear">
+		<Original>AA-1D vest(Clear Sky)</Original>
+		<English>AA-1D vest(Clear Sky)</English>
+		<Russian>AA-1D броня(ЧН)</Russian>
+	</Key>
+	<Key ID="STR_cn_med_vest_clear">
+		<Original>AA-2K vest(Clear Sky)</Original>
+		<English>AA-2K vest(Clear Sky)</English>
+		<Russian>AA-2К броня(ЧН)</Russian>
+	</Key>
+	<Key ID="STR_cn_hard_vest_clear">
+		<Original>AA-5C vest(Clear Sky)</Original>
+		<English>AA-5C vest(Clear Sky)</English>
+		<Russian>AA-5C броня(ЧН)</Russian>
+	</Key>
+	<Key ID="STR_cn_easy_vest">
+		<Original>AA-1D vest</Original>
+		<English>AA-1D vest</English>
+		<Russian>AA-1D броня</Russian>
+	</Key>
+	<Key ID="STR_cn_med_vest">
+		<Original>AA-2K vest</Original>
+		<English>AA-2K vest</English>
+		<Russian>AA-2К броня</Russian>
+	</Key>
+	<Key ID="STR_cn_hard_vest">
+		<Original>AA-5C vest</Original>
+		<English>AA-5C vest</English>
+		<Russian>AA-5C броня</Russian>
+	</Key>
+</Package>
+</Project>
