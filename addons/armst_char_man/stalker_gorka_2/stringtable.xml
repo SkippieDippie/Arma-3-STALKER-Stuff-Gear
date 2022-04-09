@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst1">
+  <Package name="armst1">
+	<Key ID="STR_Voen_gorka">
+		<Original>Military gorka</Original>
+		<English>Military gorka</English>
+		<Russian>Военный (горка)</Russian>
+	</Key>
+	<Key ID="STR_bandits_gorka">
+		<Original>Bandit gorka</Original>
+		<English>Bandit gorka</English>
+		<Russian>Бандит (горка)</Russian>
+	</Key>
+	<Key ID="STR_bandits_gorka2">
+		<Original>Bandit gorka</Original>
+		<English>Bandit gorka</English>
+		<Russian>Бандит (горка)</Russian>
+	</Key>
+	<Key ID="STR_Dolg_gorka">
+		<Original>Duty gorka</Original>
+		<English>Duty gorka</English>
+		<Russian>Долговец (горка)</Russian>
+	</Key>
+	<Key ID="STR_Dolg_gorka2">
+		<Original>Duty gorka</Original>
+		<English>Duty gorka</English>
+		<Russian>Долговец (горка)</Russian>
+	</Key>
+	<Key ID="STR_freedom_gorka">
+		<Original>Freedom gorka</Original>
+		<English>Freedom gorka</English>
+		<Russian>Свободовец (горка)</Russian>
+	</Key>
+	<Key ID="STR_freedom_gorka2">
+		<Original>Freedom gorka 2</Original>
+		<English>Freedom gorka 2</English>
+		<Russian>Свободовец (горка) 2</Russian>
+	</Key>
+	<Key ID="STR_loner_gorka1">
+		<Original>Loner gorka</Original>
+		<English>Loner gorka</English>
+		<Russian>Сталкер (горка)</Russian>
+	</Key>
+	<Key ID="STR_loner_gorka2">
+		<Original>Loner gorka</Original>
+		<English>Loner gorka</English>
+		<Russian>Сталкер (горка)</Russian>
+	</Key>
+	<Key ID="STR_loner_gorka3">
+		<Original>Loner gorka 3</Original>
+		<English>Loner gorka 3</English>
+		<Russian>Сталкер (горка)</Russian>
+	</Key>
+	<Key ID="STR_loner_gorka4">
+		<Original>Loner gorka 4</Original>
+		<English>Loner gorka 4</English>
+		<Russian>Сталкер (горка)</Russian>
+	</Key>
+	<Key ID="STR_loner_gorka5">
+		<Original>Loner gorka 5</Original>
+		<English>Loner gorka 5</English>
+		<Russian>Сталкер (горка) 5</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_gorka">
+		<Original>Mercenary gorka</Original>
+		<English>Mercenary gorka</English>
+		<Russian>Наемник (горка)</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_gorka2">
+		<Original>Mercenary gorka 2</Original>
+		<English>Mercenary gorka 2</English>
+		<Russian>Наемник (горка)</Russian>
+	</Key>
+	<Key ID="STR_monolith_gorka">
+		<Original>Monolith gorka</Original>
+		<English>Monolith gorka</English>
+		<Russian>Монолитовец (горка)</Russian>
+	</Key>
+	
+</Package>
+</Project>

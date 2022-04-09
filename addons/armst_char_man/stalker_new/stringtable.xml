@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst1">
+  <Package name="armst1">
+	<Key ID="STR_Voen_new">
+		<Original>Military</Original>
+		<English>Military</English>
+		<Russian>Военный (униформа)</Russian>
+	</Key>
+	<Key ID="STR_clearsky_new">
+		<Original>Clear Sky</Original>
+		<English>Clear Sky</English>
+		<Russian>Чистое небо (униформа)</Russian>
+	</Key>
+	<Key ID="STR_freedom_new">
+		<Original>Freedom</Original>
+		<English>Freedom</English>
+		<Russian>Свободовец (униформа)</Russian>
+	</Key>
+	<Key ID="STR_Dolg_new">
+		<Original>Duty</Original>
+		<English>Duty</English>
+		<Russian>Долговец (униформа)</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_new">
+		<Original>Mercenary</Original>
+		<English>Mercenary</English>
+		<Russian>Наемник (униформа)</Russian>
+	</Key>
+	<Key ID="STR_loner_new1">
+		<Original>Stalker loner 1</Original>
+		<English>Stalker loner 1</English>
+		<Russian>Сталкер (униформа)</Russian>
+	</Key>
+	<Key ID="STR_loner_new2">
+		<Original>Stalker loner 2</Original>
+		<English>Stalker loner 2</English>
+		<Russian>Сталкер (униформа)</Russian>
+	</Key>
+	<Key ID="STR_loner_new3">
+		<Original>Stalker loner 3</Original>
+		<English>Stalker loner 3</English>
+		<Russian>Сталкер (униформа)</Russian>
+	</Key>
+	<Key ID="STR_loner_new4">
+		<Original>Stalker loner 4</Original>
+		<English>Stalker loner 4</English>
+		<Russian>Сталкер (униформа)</Russian>
+	</Key>
+	<Key ID="STR_loner_new5">
+		<Original>Stalker loner 5</Original>
+		<English>Stalker loner 5</English>
+		<Russian>Сталкер (униформа)</Russian>
+	</Key>
+	<Key ID="STR_science_new">
+		<Original>Science</Original>
+		<English>Science</English>
+		<Russian>Ученый (униформа)</Russian>
+	</Key>
+	
+</Package>
+</Project>

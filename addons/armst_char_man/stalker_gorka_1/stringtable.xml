@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="armst_char">
+  <Package name="armst_char">
+	<Key ID="STR_ARMST_SCIENCE">
+		<Original>Science fraction</Original>
+		<English>Science fraction</English>
+		<Russian>Ученые</Russian>
+	</Key>
+	<Key ID="STR_ARMST_STALKER">
+		<Original>Loners fraction</Original>
+		<English>Loners fraction</English>
+		<Russian>Сталкеры</Russian>
+	</Key>
+	<Key ID="STR_ARMST_clear_sky">
+		<Original>Clear sky fraction</Original>
+		<English>Clear sky fraction</English>
+		<Russian>Чистое небо</Russian>
+	</Key>
+	<Key ID="STR_ARMST_RENEGADE">
+		<Original>RENEGADE fraction</Original>
+		<English>RENEGADE fraction</English>
+		<Russian>Ренегаты</Russian>
+	</Key>
+	<Key ID="STR_ARMST_FREEDOM">
+		<Original>Freedom fraction</Original>
+		<English>Freedom fraction</English>
+		<Russian>Свобода</Russian>
+	</Key>
+	<Key ID="STR_ARMST_BANDITS">
+		<Original>Bandits fraction</Original>
+		<English>Bandits fraction</English>
+		<Russian>Бандиты</Russian>
+	</Key>
+	<Key ID="STR_ARMST_DOLG">
+		<Original>Duty fraction</Original>
+		<English>Duty fraction</English>
+		<Russian>Долг</Russian>
+	</Key>
+	<Key ID="STR_ARMST_ARMY">
+		<Original>Military fraction</Original>
+		<English>Military fraction</English>
+		<Russian>Военные</Russian>
+	</Key>
+	<Key ID="STR_ARMST_MONOLITH">
+		<Original>Monolith fraction</Original>
+		<English>Monolith fraction</English>
+		<Russian>Монолит</Russian>
+	</Key>
+	<Key ID="STR_ARMST_MERCENARIES">
+		<Original>Mercenaries fraction</Original>
+		<English>Mercenaries fraction</English>
+		<Russian>Наемники</Russian>
+	</Key>
+	
+	
+	
+	<Key ID="STR_armst_man_quest">
+		<Original>Quest characters</Original>
+		<English>Quest characters</English>
+		<Russian>Квестовые персонажи</Russian>
+	</Key>
+	
+	<Key ID="STR_Armst_novice">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice1">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice2">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice3">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice4">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice5">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice6">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice7">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice8">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_novice9">
+		<Original>Novice</Original>
+		<English>Novice</English>
+		<Russian>Новенький</Russian>
+	</Key>
+	<Key ID="STR_Armst_newbiebandit">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_Armst_newbiebandit2">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_Armst_newbiebandit3">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_armst_a2bandit">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_armst_a2bandit_2">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_armst_a2bandit_3">
+		<Original>Chav</Original>
+		<English>Chav</English>
+		<Russian>Гопник</Russian>
+	</Key>
+	<Key ID="STR_armst_barman">
+		<Original>Barkeep</Original>
+		<English>Barkeep</English>
+		<Russian>Бармен</Russian>
+	</Key>
+	<Key ID="STR_armst_trader">
+		<Original>Trader</Original>
+		<English>Trader</English>
+		<Russian>Торговец</Russian>
+	</Key>
+	<Key ID="STR_armst_sidor">
+		<Original>Sidorovich</Original>
+		<English>Sidorovich</English>
+		<Russian>Сидорович</Russian>
+	</Key>
+	<Key ID="STR_ucheniy">
+		<Original>Scientist</Original>
+		<English>Scientist</English>
+		<Russian>Ученый</Russian>
+	</Key>
+	<Key ID="STR_Voen_private">
+		<Original>Military private</Original>
+		<English>Military private</English>
+		<Russian>Военный (рядовой)</Russian>
+	</Key>
+	<Key ID="STR_elite_Voen">
+		<Original>Military master</Original>
+		<English>Military master</English>
+		<Russian>Военный (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_Voenstal">
+		<Original>Military Stalker</Original>
+		<English>Military Stalker</English>
+		<Russian>Военсталкер</Russian>
+	</Key>
+	<Key ID="STR_bandits_private">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandits_private22">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_elite">
+		<Original>Bandit master</Original>
+		<English>Bandit master</English>
+		<Russian>Бандит (мастер)</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_1">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_1_2">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_1_3">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_2">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_2_2">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_bandit_new_2_3">
+		<Original>Bandit</Original>
+		<English>Bandit</English>
+		<Russian>Бандит</Russian>
+	</Key>
+	<Key ID="STR_ARMY_b">
+		<Original>Military veteran</Original>
+		<English>Military veteran</English>
+		<Russian>Военный (булат)</Russian>
+	</Key>
+	<Key ID="STR_DOLG_b">
+		<Original>Duty veteran</Original>
+		<English>Duty veteran</English>
+		<Russian>Долговец (булат)</Russian>
+	</Key>
+	<Key ID="STR_loner_b">
+		<Original>Loner veteran</Original>
+		<English>Loner veteran</English>
+		<Russian>Сталкер (булат)</Russian>
+	</Key>
+	<Key ID="STR_clearsky_private">
+		<Original>Clear Skyer</Original>
+		<English>Clear Skyer</English>
+		<Russian>Чистое небо</Russian>
+	</Key>
+	<Key ID="STR_clearsky_elite">
+		<Original>Clear Skyer master</Original>
+		<English>Clear Skyer master</English>
+		<Russian>Чистое небо (мастер)</Russian>
+	</Key>
+	<Key ID="STR_neutral_private">
+		<Original>Neutral</Original>
+		<English>Neutral</English>
+		<Russian>Нейтрал</Russian>
+	</Key>
+	<Key ID="STR_Dolg_private">
+		<Original>Duty novice</Original>
+		<English>Duty novice</English>
+		<Russian>Долговец (рекрут)</Russian>
+	</Key>
+	<Key ID="STR_Dolg_private22">
+		<Original>Duty</Original>
+		<English>Duty</English>
+		<Russian>Долговец</Russian>
+	</Key>
+	<Key ID="STR_Dolg_master">
+		<Original>Duty master</Original>
+		<English>Duty master</English>
+		<Russian>Долговец (мастер)</Russian>
+	</Key>
+	<Key ID="STR_Dolg_new_soldier">
+		<Original>Duty</Original>
+		<English>Duty</English>
+		<Russian>Долговец (форма)</Russian>
+	</Key>
+	<Key ID="STR_freedom_soldier">
+		<Original>Freedom</Original>
+		<English>Freedom</English>
+		<Russian>Свободовец (форма)</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_soldier">
+		<Original>Mercenary</Original>
+		<English>Mercenary</English>
+		<Russian>Наемник (форма)</Russian>
+	</Key>
+	<Key ID="STR_Voen_soldier">
+		<Original>Military</Original>
+		<English>Military</English>
+		<Russian>Военный (форма)</Russian>
+	</Key>
+	<Key ID="STR_oksop_soldier">
+		<Original>Military</Original>
+		<English>Military</English>
+		<Russian>Военный (форма)</Russian>
+	</Key>
+	<Key ID="STR_loner_soldier">
+		<Original>Stalker</Original>
+		<English>Stalker</English>
+		<Russian>Сталкер (форма)</Russian>
+	</Key>
+	<Key ID="STR_freedom_private">
+		<Original>Freedom novice</Original>
+		<English>Freedom novice</English>
+		<Russian>Свободовец (рекрут)</Russian>
+	</Key>
+	<Key ID="STR_freedom_private22">
+		<Original>Freedom</Original>
+		<English>Freedom</English>
+		<Russian>Свободовец</Russian>
+	</Key>
+	<Key ID="STR_freedom_master">
+		<Original>Freedom master</Original>
+		<English>Freedom master</English>
+		<Russian>Свобода (мастер)</Russian>
+	</Key>
+	<Key ID="STR_loner_l">
+		<Original>Loner legend</Original>
+		<English>Loner legend</English>
+		<Russian>Сталкер (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_ARMY_l">
+		<Original>Military legend</Original>
+		<English>Military legend</English>
+		<Russian>Военный (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_BANDITS_l">
+		<Original>Bandit legend</Original>
+		<English>Bandit legend</English>
+		<Russian>Бандит (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_DOLG_l">
+		<Original>Duty legend</Original>
+		<English>Duty legend</English>
+		<Russian>Долг (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_freedom_l">
+		<Original>Freedom legend</Original>
+		<English>Freedom legend</English>
+		<Russian>Свобода (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_MERCENARIES_l">
+		<Original>Mercenary legend</Original>
+		<English>Mercenary legend</English>
+		<Russian>Наемник (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_monolith_l">
+		<Original>Monolith legend</Original>
+		<English>Monolith legend</English>
+		<Russian>Монолит (экзоскелет)</Russian>
+	</Key>
+	<Key ID="STR_mercer_zaria">
+		<Original>Mercenary Dawn</Original>
+		<English>Mercenary Dawn</English>
+		<Russian>Наемник (заря)</Russian>
+	</Key>
+	
+	<Key ID="STR_loner_zaria1">
+		<Original>Loner Dawn</Original>
+		<English>Loner Dawn</English>
+		<Russian>Сталкер (заря)</Russian>
+	</Key>
+	<Key ID="STR_loner_zaria2">
+		<Original>Loner Dawn</Original>
+		<English>Loner Dawn</English>
+		<Russian>Сталкер (заря)</Russian>
+	</Key>
+	<Key ID="STR_loner_zaria3">
+		<Original>Loner Dawn</Original>
+		<English>Loner Dawn</English>
+		<Russian>Сталкер (заря)</Russian>
+	</Key>
+	<Key ID="STR_zaria_duty">
+		<Original>Duty Dawn </Original>
+		<English>Duty Dawn</English>
+		<Russian>Долговец (заря)</Russian>
+	</Key>
+	<Key ID="STR_zaria_freedom">
+		<Original>Freedom Dawn</Original>
+		<English>Freedom Dawn</English>
+		<Russian>Свободовец (заря)</Russian>
+	</Key>
+	
+	<Key ID="STR_loner_private1">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private2">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private3">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private4">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private5">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private6">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private7">
+		<Original>Mehanic</Original>
+		<English>Mehanic</English>
+		<Russian>Механик</Russian>
+	</Key>
+	<Key ID="STR_loner_private8">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private9">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private10">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private11">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private12">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_loner_private13">
+		<Original>Last day</Original>
+		<English>Last day</English>
+		<Russian>Последний день</Russian>
+	</Key>
+	<Key ID="STR_loner_private14">
+		<Original>Loner</Original>
+		<English>Loner</English>
+		<Russian>Сталкер</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_private">
+		<Original>Mercenary</Original>
+		<English>Mercenary</English>
+		<Russian>Наемник (рекрут)</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_private2">
+		<Original>Mercenary</Original>
+		<English>Mercenary</English>
+		<Russian>Наемник</Russian>
+	</Key>
+	<Key ID="STR_mercenaries_master">
+		<Original>Mercenary master</Original>
+		<English>Mercenary master</English>
+		<Russian>Наемник (мастер)</Russian>
+	</Key>
+	<Key ID="STR_monolith_private">
+		<Original>Monolith</Original>
+		<English>Monolith</English>
+		<Russian>Монолитовец</Russian>
+	</Key>
+	<Key ID="STR_Armst_hazmat">
+		<Original>Scientist</Original>
+		<English>Scientist</English>
+		<Russian>Ученый (огурец)</Russian>
+	</Key>
+	<Key ID="STR_Armst_Scientist">
+		<Original>Scientist</Original>
+		<English>Scientist</English>
+		<Russian>Ученый (полевой)</Russian>
+	</Key>
+	<Key ID="STR_Armst_Doctor">
+		<Original>Doctor of science</Original>
+		<English>Doctor of science</English>
+		<Russian>Ученый (халат)</Russian>
+	</Key>
+	<Key ID="STR_Armst_Doctor2">
+		<Original>Doctor of science</Original>
+		<English>Doctor of science</English>
+		<Russian>Ученый (халат)</Russian>
+	</Key>
+	<Key ID="STR_Armst_Doctor3">
+		<Original>Doctor of science</Original>
+		<English>Doctor of science</English>
+		<Russian>Ученый (халат)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner1">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner2">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner3">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner4">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner5">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_elite_loner6">
+		<Original>Loner master</Original>
+		<English>Loner master</English>
+		<Russian>Сталкер (мастер)</Russian>
+	</Key>
+	<Key ID="STR_ARMY_pilot">
+		<Original>Pilot</Original>
+		<English>Pilot</English>
+		<Russian>Пилот</Russian>
+	</Key>
+	<Key ID="STR_science_guard">
+		<Original>Science guard</Original>
+		<English>Science guard</English>
+		<Russian>Охраник ученых</Russian>
+	</Key>
+	<Key ID="STR_lastday_private">
+		<Original>Sin</Original>
+		<English>Sin</English>
+		<Russian>Греховец</Russian>
+	</Key>
+	<Key ID="STR_elite_kb">
+		<Original>Contraband</Original>
+		<English>Contraband</English>
+		<Russian>Контрабандист</Russian>
+	</Key>
+	
+	
+</Package>
+</Project>
